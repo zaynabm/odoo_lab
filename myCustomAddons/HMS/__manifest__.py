@@ -3,5 +3,8 @@
 
 
 {
-    'name': 'Hospitals Management System'
+    'name': 'Hospitals Management System',
+    'data':[
+    'views/hms_patient_views.xml'
+    ]
 }
